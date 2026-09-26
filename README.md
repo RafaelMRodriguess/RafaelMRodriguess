@@ -2,7 +2,7 @@
 
 ### Estudante de Ciência da Computação 
 
-Sou estudante de Ciência da Computação na Universidade Regional Integrada do Alto Uruguai e das Missões (URI) e direciono minha carreira para Engenharia e Análise de Dados. Desenvolvo projetos utilizando Python, SQL, PostgreSQL, APIs, Docker e Power BI, buscando automatizar processos, construir pipelines de dados e transformar informações em insights para apoiar a tomada de decisão.
+Sou estudante de Ciência da Computação na Universidade Regional Integrada do Alto Uruguai e das Missões (URI). Desenvolvo projetos utilizando Python, SQL, PostgreSQL, APIs, Docker e Power BI, buscando automatizar processos e construir pipelines de dados.
 
 ---
 
